@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rodavi
 - 👀 I’m interested in AI, Optimization, Dynamics and Robotics
-- 🌱 I’m currently learning Python, AI, etc.
-- 💞️ I’m looking to collaborate on AI, Robotics and Optimization
+- 🌱 I’m currently learning C/C++, Python, AI, etc.
+- 💞️ I’m looking to collaborate on AI, Robotics, Autonomous Driving and Optimization
 - 📫 How to reach me avipe.rojo@gmail.com
 
 <!---
