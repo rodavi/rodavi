@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodavi
+- 👋 Hi, I’m Rodrigo Avila
 - 👀 I’m interested in AI, Optimization, Dynamics and Robotics
 - 🌱 I’m continuous learning C/C++, Python, AI, etc.
 - 💞️ I’m looking to collaborate on AI, Autonomous Driving, Robotics, and Optimization
